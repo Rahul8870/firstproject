@@ -23,3 +23,4 @@ class emp {
   emp1.skill = "Java";
   let employee=[emp1];
   console.log(emp1.employee_name());
+  console.log(employee_name())
