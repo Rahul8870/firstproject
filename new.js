@@ -13,7 +13,7 @@ class emp {
   
   let emp1 = new emp();
   
-  emp1.first_name = "Rahul gandhi";
+  emp1.first_name = "Rahul ";
   emp1.last_name = "ravi";
   emp1.id = "01";
   
