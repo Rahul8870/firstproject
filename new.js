@@ -21,7 +21,6 @@ class emp {
   emp1.doj = new Date(2023, 04, 03);
   emp1.qualification = "B-Tech";
   emp1.skill = "Java";
-  let employee=[emp1];
-  console.log(emp1.employee_name());
+
 
   
